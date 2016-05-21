@@ -37,7 +37,7 @@ var app = {
       console.log('deviceready event');
        app.push = PushNotification.init({
             "android": {
-                "senderID": "Your GCM ID"
+                "senderID": "722651926121"
             },
             "ios": {
               "sound": true,
